@@ -59,3 +59,5 @@ If you want to learn more about building native executables, please consult http
 - Hibernate ORM with Panache ([guide](https://quarkus.io/guides/hibernate-orm-panache)): Simplify your persistence code for Hibernate ORM via the active record or the repository pattern
 - Hibernate Search + Elasticsearch ([guide](https://quarkus.io/guides/hibernate-search-orm-elasticsearch)): Automatically index your Hibernate entities in Elasticsearch
 - JDBC Driver - PostgreSQL ([guide](https://quarkus.io/guides/datasource)): Connect to the PostgreSQL database via JDBC
+- Quarkus-Hibernate-Search ([guide](https://quarkus.io/guides/hibernate-search-orm-elasticsearch))
+- Hibernate-Search ([guide](https://docs.jboss.org/hibernate/stable/search/reference/en-US/html_single/))
