@@ -4,6 +4,12 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+# Running Elastic Cluster Search Using Docker
+To start Elasticsearch with Docker Compose, in your terminal or command prompt, navigate to the directory containing attached docker-compose.yml file, and run the following command:
+```shell script
+docker-compose up
+```
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
